@@ -5,6 +5,8 @@ A Visopsys-based OS
 ***
 [jopsys.wordpress.com](http://jopsys.wordpress.com)  ~  Jopsys, from New Genius.
 
+NOTE: JOPSYS HAS BEEN MOVED AND KEPT AT [NEW GENIUS GITHUB](http://github.com/newgenius/jopsys)
+
 
 
 
